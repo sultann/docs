@@ -17,7 +17,7 @@ title: 'Install a LEMP Stack on Ubuntu 18.04'
 
 ## What is a LEMP Stack?
 
-The LAMP stack (Linux, Apache, MariaDB, and PHP) is a popular server configuration for developing and hosting web applications. The four components of the stack are not tightly coupled, making it possible to substitute your preferred technologies. The LEMP stack is a common variant in which the Apache web server is replaced by NGINX.
+The LAMP stack (Linux, NGINX, MariaDB, and PHP) is a popular server configuration for developing and hosting web applications. The four components of the stack are not tightly coupled, making it possible to substitute your preferred technologies. The LEMP stack is a common variant in which the Apache web server is replaced by NGINX.
 
 ## Before You Begin
 
